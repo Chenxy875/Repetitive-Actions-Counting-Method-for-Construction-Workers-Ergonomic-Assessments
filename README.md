@@ -9,34 +9,31 @@ Example of Ergonomic assessment for construction worker：
 
 
 
-
-
-https://github.com/Chenxy875/Repetitive-Actions-Counting-Method-for-Construction-Workers-Ergonomic-Assessment/assets/121841006/d8b90cac-5a10-4c84-9cc8-04eaf1c6265f
+https://github.com/Chenxy875/Repetitive-Actions-Counting-Method-for-Construction-Workers-Ergonomic-Assessments/assets/121841006/9b04daa9-8dbf-4f1a-8c9b-dcc13e332311
 
 
 2.
 
 
-
-
-https://github.com/Chenxy875/Repetitive-Actions-Counting-Method-for-Construction-Workers-Ergonomic-Assessment/assets/121841006/01f6f0f4-89de-44f9-b3ad-bb995e4fbd6d
-
-
-
-
-
+https://github.com/Chenxy875/Repetitive-Actions-Counting-Method-for-Construction-Workers-Ergonomic-Assessments/assets/121841006/7641afdc-a88a-492a-a018-873997c4c018
 
 
 Dataset：
-![图片1](https://github.com/Chenxy875/Repetitive-Actions-Counting-Method-for-Construction-Workers-Ergonomic-Assessment/assets/121841006/d5e8ed55-4d9b-4335-9d45-00f548e927c1)
+
+![DATASET](https://github.com/Chenxy875/Repetitive-Actions-Counting-Method-for-Construction-Workers-Ergonomic-Assessments/assets/121841006/572d37ee-f2c2-4602-893d-0f92595b40ec)
+
+
+
+
+
+
+
 
 
 
 
 
 Repetitive-Actions-Counting-Results：
-
-![Picture5](https://github.com/Chenxy875/Repetitive-Actions-Counting-Method-for-Construction-Workers-Ergonomic-Assessment/assets/121841006/0ae1a37d-5782-48a5-9f8f-03a617dbf1b8)
 
 
 
