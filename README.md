@@ -1,10 +1,15 @@
 
+Pipline:
 
+![Picture9](https://github.com/Chenxy875/Repetitive-Actions-Counting-Method-for-Construction-Workers-Ergonomic-Assessments/assets/121841006/bb22d4eb-892c-4afa-b7fc-74df05eb7525)
+
+
+
+![2](https://github.com/Chenxy875/Repetitive-Actions-Counting-Method-for-Construction-Workers-Ergonomic-Assessments/assets/121841006/aaecc254-d1ea-46e2-b6f4-74d994635d40)
 
 Example of Ergonomic assessment for construction worker：
 
 1.
-
 
 
 
@@ -35,6 +40,7 @@ Dataset：
 
 Repetitive-Actions-Counting-Results：
 
+![Picture1213](https://github.com/Chenxy875/Repetitive-Actions-Counting-Method-for-Construction-Workers-Ergonomic-Assessments/assets/121841006/fabeae2c-035a-4491-bde1-dffd6f24c999)
 
 
 
