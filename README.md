@@ -5,7 +5,6 @@ Pipline:
 
 
 
-![2](https://github.com/Chenxy875/Repetitive-Actions-Counting-Method-for-Construction-Workers-Ergonomic-Assessments/assets/121841006/aaecc254-d1ea-46e2-b6f4-74d994635d40)
 
 Example of Ergonomic assessment for construction worker：
 
