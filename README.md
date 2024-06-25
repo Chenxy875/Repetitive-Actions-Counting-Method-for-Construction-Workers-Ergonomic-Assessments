@@ -37,9 +37,5 @@ Dataset：
 
 
 
-Repetitive-Actions-Counting-Results：
-
-![Picture1213](https://github.com/Chenxy875/Repetitive-Actions-Counting-Method-for-Construction-Workers-Ergonomic-Assessments/assets/121841006/fabeae2c-035a-4491-bde1-dffd6f24c999)
-
 
 
